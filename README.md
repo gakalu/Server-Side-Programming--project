@@ -8,7 +8,7 @@
   - Solomon Atsbeha
   - Mastewal Desta
   - Eyasu Gebrehiwot
-  - Simon Kiflay
+  - Franklin LeelaBeing
   2. Status Report about your group project
   3. List each member’s tasks
   - Hailemariam Gebrekidan  --
@@ -16,7 +16,7 @@
   - Solomon Atsbeha  --
   - Mastewal Desta  --
   - Eyasu Gebrehiwot  --
-  - Simon Kiflay  --  
+  - Franklin LeelaBeing  --  
 2. Source code or github link for your project repository
 
 ## Project Requirements
