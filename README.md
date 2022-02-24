@@ -1,4 +1,4 @@
-# CS477 Project - Online BookStore
+# Server Side Programming  - Online BookStore
 
 ## What you need to submit:
 1. README doc: 
